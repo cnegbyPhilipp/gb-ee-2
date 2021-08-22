@@ -8,4 +8,5 @@ public class ConsoleCommandConstants {
 
   public static final String EXIT = "exit";
   public static final String ALL = "all";
+  public static final String TEST = "test";
 }
